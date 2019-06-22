@@ -18,8 +18,17 @@ Must Have Min 1GB Free Space
 # Command
 
 git clone https://github.com/tellcyber/tellmsf
+
+
+
 cd tellmsf
+
+
+
 chmod +x tellmsf.sh
+
+
+
 ./tellmsf.sh
 
 
@@ -33,5 +42,5 @@ chmod +x tellmsf.sh
 
 # Contact
 
-Instagram : instagram.com/tellcyber
-Telegram Channel : t.me/tellcyber
+Instagram : https://instagram.com/tellcyber
+Telegram Channel : https://t.me/tellcyber
